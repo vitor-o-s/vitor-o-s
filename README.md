@@ -27,7 +27,7 @@ Hi, I'm Vitor O, a  computer engineer student from Brazil ![](). Dedicated to be
 - 💬 I speak intermediate English and basic French;
 - 🤔 Ask me about anything, I am happy to help;
 - 😄 Pronouns: he/him;
-- ⚡ Fun fact:I play bass
+- ⚡ Fun fact: I play bass
 - ⚡ Fun fact: The binary sum of the letters in my name results in 01000010100 
 
 
