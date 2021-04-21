@@ -1,6 +1,6 @@
 ### Obi-wan, how did you find me? <img src="https://media.giphy.com/media/2Zm5Gd6aCOTU4/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/vitor-o-dos-santos-008489149/">
+<a href="https://www.linkedin.com/in/vitor-o-dos-santos/">
   <img align="left" alt="Vitor's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/vitor_o_s">
