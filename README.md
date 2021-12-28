@@ -15,15 +15,16 @@
 
 <br />
 
-Hi, I'm Vitor O, a  computer engineer student from Brazil ![](). Dedicated to being a Data Scientist. Beside's programming, I enjoy read and listen to music.
+Hi, I'm Vitor O, a  computer engineer student from Brazil ![](). Dedicated to being a Data professional. Beside's programming, I enjoy read and listen to music.
 
 
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on autonomous drone, personal projects and researchs from my graduation;
-- 🌱 I’m currently learning Machine Learning;
+- 👨🏽‍💻 I’m currently working on personal projects and researchs from my graduation;
+- 💻 I'm Data Engineer at [DTI digital](https://www.dtidigital.com.br/)
+- 🌱 I’m currently learning Data Architecture and DataOps;
 - 💬 I speak intermediate English and basic French;
 - 🤔 Ask me about anything, I am happy to help;
 - 😄 Pronouns: he/him;
