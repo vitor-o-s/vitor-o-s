@@ -11,11 +11,11 @@
 </a>
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=vitor-o-s)
+![](https://visitor-badge.laobi.icu/badge?page_id=vitor-o-s)
 
 <br />
 
-Hi, I'm Vitor O, a  computer engineer student from Brazil ![](). Dedicated to being a Data professional. Beside's programming, I enjoy read and listen to music.
+Hi, I'm Vitor O. a brazilian data engineer. Beside's programming, I enjoy read and listen to music.
 
 
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -45,19 +45,3 @@ Hi, I'm Vitor O, a  computer engineer student from Brazil ![](). Dedicated to be
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vitor-o-s&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-
-<!--
-**vitor-o-s/vitor-o-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- #### 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
