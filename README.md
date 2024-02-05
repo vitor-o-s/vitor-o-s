@@ -23,11 +23,10 @@ Hi, I'm Vitor O. a brazilian data engineer. Beside's programming, I enjoy read a
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on personal projects and researchs from my graduation;
-- 💻 I'm Data Engineer at [DTI digital](https://www.dtidigital.com.br/)
+- 💻 I'm Data Engineer at [Leega](https://leega.com.br/)
 - 🌱 I’m currently learning Data Architecture and DataOps;
-- 💬 I speak intermediate English and basic French;
+- 💬 I speak English and basic French;
 - 🤔 Ask me about anything, I am happy to help;
-- 😄 Pronouns: he/him;
 - ⚡ Fun fact: I play bass
 - ⚡ Fun fact: The binary sum of the letters in my name results in 01000010100 
 
