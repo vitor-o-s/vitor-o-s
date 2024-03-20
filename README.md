@@ -23,12 +23,13 @@ Hi, I'm Vitor O. a brazilian data engineer. Beside's programming, I enjoy read a
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on personal projects and researchs from my graduation;
-- 💻 I'm Data Engineer at [Leega](https://leega.com.br/)
+- 💻 I'm a Mid Data Engineer at [LPJ Group](https://grupolpj.com/)
 - 🌱 I’m currently learning Data Architecture and DataOps;
 - 💬 I speak English and basic French;
 - 🤔 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I play bass
-- ⚡ Fun fact: The binary sum of the letters in my name results in 01000010100 
+- ⚡ Fun fact: The binary sum of the letters in my name results in 01000010100
+- 🗒️ "Make it work, make it right, make it fast" 
 
 
 **Languages and Tools:**  
