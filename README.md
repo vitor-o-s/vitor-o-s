@@ -22,9 +22,9 @@ Hi, I'm Vitor O. a brazilian data engineer. Beside's programming, I enjoy read a
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on personal projects and researchs from my graduation;
-- 💻 I'm a Mid Data Engineer at [LPJ Group](https://grupolpj.com/)
-- 🌱 I’m currently learning Data Architecture and DataOps;
+- 👨🏽‍💻 I’m currently working on personal projects and researchs for my postgraduate;
+- 💻 I'm a Senior Data Engineer at [LPJ Group](https://grupolpj.com/)
+- 🌱 I’m currently learning FinOps and MLOps;
 - 💬 I speak English and basic French;
 - 🤔 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I play bass
